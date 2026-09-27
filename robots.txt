@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.xbnxi.cn/sitemap.xml
